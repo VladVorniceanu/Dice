@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "95cdc6f3b93cf4a068367d051b3c62cd3d0bb770eddbe1e27af91276a36e4351"
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/Dicee-iOS13.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/DerivedData/Dicee-iOS13/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/DerivedData/Dicee-iOS13/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/DerivedData/Dicee-iOS13/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/DerivedData/Dicee-iOS13/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/DerivedData/Dicee-iOS13/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/DerivedData/Dicee-iOS13/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

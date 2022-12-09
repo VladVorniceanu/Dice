@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7E552300-385D-4804-83FB-9597495BF221</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E552300-385D-4804-83FB-9597495BF221.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Dicee-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Dicee-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Dicee-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>690281435.27711201</real>
+			<key>timeStoppedRecording</key>
+			<real>690281435.32444</real>
+			<key>title</key>
+			<string>Build Dicee-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>7E552300-385D-4804-83FB-9597495BF221</string>
+		</dict>
+		<key>9EA16BA9-A21F-4B42-806F-24124E591E98</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9EA16BA9-A21F-4B42-806F-24124E591E98.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Dicee-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Dicee-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Dicee-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>692238617.98497498</real>
+			<key>timeStoppedRecording</key>
+			<real>692238623.178792</real>
+			<key>title</key>
+			<string>Build Dicee-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>9EA16BA9-A21F-4B42-806F-24124E591E98</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

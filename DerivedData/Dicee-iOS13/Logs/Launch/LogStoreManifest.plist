@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5E240DC7-0A87-4D49-A85C-8EA5AF2F2D97</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9EA16BA9-A21F-4B42-806F-24124E591E98</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Dicee-iOS13-2022.12.09_02-30-17-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Dicee-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Dicee-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Dicee-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>692238617.98438799</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Dicee-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>5E240DC7-0A87-4D49-A85C-8EA5AF2F2D97</string>
+		</dict>
+		<key>B4611EA8-B83E-40EC-9E7A-C0694211CEA9</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7E552300-385D-4804-83FB-9597495BF221</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Dicee-iOS13-2022.11.16_10-50-35-+0200.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Dicee-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Dicee-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Dicee-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>690281435.27699602</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Dicee-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>B4611EA8-B83E-40EC-9E7A-C0694211CEA9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

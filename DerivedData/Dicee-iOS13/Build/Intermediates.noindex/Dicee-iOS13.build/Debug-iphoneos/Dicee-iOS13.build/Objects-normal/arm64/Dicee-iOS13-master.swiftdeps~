@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "f9b4fc8b67d8b781a6396c4c141cf3b6226b47d60463900dad4a874a4a8d006b"
+build_start_time: [1668588540, 170622825]
+build_end_time: [1668588540, 197102069]
+inputs:
+  "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/Dicee-iOS13/AppDelegate.swift": !private [1667329539, 877266168]
+  "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/Dicee-iOS13/SceneDelegate.swift": !private [1667329539, 914730548]
+  "/Users/vladvorniceanu/Desktop/iOS & Swift developing/Dicee-iOS13/Dicee-iOS13/ViewController.swift": !private [1667464944, 701445102]
